@@ -1,0 +1,4 @@
+float64 conf1_ch4_setpoint
+float64 conf1_ch3_setpoint
+float64 conf1_ch2_setpoint
+float64 conf1_ch1_setpoint
